@@ -1,3 +1,15 @@
 .fancy-layout{
 	   background-color: hotpink;
 }
+
+p{
+	font-family: sans-serif;
+	font-size: 2rem;
+	font-weight: bold;
+	font-style: italic;
+	color: darkolivegreen;
+	background-color: lightgray;
+	max-width: 12%;
+	border-radius: 10px;
+	border: 1px dashed gray;
+}
